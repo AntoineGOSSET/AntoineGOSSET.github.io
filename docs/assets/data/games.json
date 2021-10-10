@@ -2,7 +2,7 @@
     {
         "id":"1",
         "name":"Minecraft",
-        "description": "Minecraft plonge le joueur dans un monde créé de manière procédurale, composé de voxels (des cubes) représentant différents matériaux comme de la terre, du sable, de la pierre, de l'eau, de la lave ou des minerais formant diverses structures.",
+        "description": "Pas besoin de le décrire, à vos pioches et à vos pelles, venez build avec nous ! Notre serveur Minecraft est un survival avec plusieurs maps ouvert à tous (sauf aux crackés).",
         "lien_utile":"https://www.minecraft.net/fr-fr",
         "version": "1.16.5",
         "serveur_proprietaire": "gurdilcraft.fr",
@@ -11,8 +11,8 @@
     {
         "id":"8",
         "name":"Squad",
-        "description": "",
-        "lien_utile":"",
+        "description": "Le jeu de guerre tactique en équipe ! Rejoignez le champ de bataille avec notre escouade et suivez les ordres de notre état-major pour vivre des soirées de coopérations et de divertissement",
+        "lien_utile":"https://joinsquad.com/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/squad.jpg"
@@ -20,8 +20,8 @@
     {
         "id":"2",
         "name":"Eco",
-        "description": "",
-        "lien_utile":"",
+        "description": "Eco est un jeu de simulation réaliste basé sur la gestion de l’environnement et des ressources sur une planète partagée. Rejoignez-nous pour construire le monde idéal et pour faire face à la menace de la météorite !",
+        "lien_utile":"https://play.eco/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/eco.jpg"
@@ -29,8 +29,8 @@
     {
         "id":"3",
         "name":"7 Days to Die",
-        "description": "",
-        "lien_utile":"",
+        "description": "7 days to die est un jeu survival et coopératif face à des hordes de zombies. Pillez avec nous pour construire la base, et même le bunker qui saura faire face à toutes les vagues de zombies...Nous l'espérons",
+        "lien_utile":"https://store.steampowered.com/app/251570/7_Days_to_Die/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/7days.jpg"
@@ -38,8 +38,8 @@
     {
         "id":"4",
         "name":"Ark",
-        "description": "",
-        "lien_utile":"",
+        "description": "Venez rejoindre notre serveur jurrassic ! “J’ai dépensé sans compter” (John Hammond). T-Rex like that !",
+        "lien_utile":"https://www.epicgames.com/store/fr/p/ark",
         "version": "",
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/ark.jpg"
@@ -47,8 +47,8 @@
     {
         "id":"5",
         "name":"League of Legends",
-        "description": "",
-        "lien_utile":"",
+        "description": "Plusieurs membres de notre communauté sont des joueurs de Lol. Passez en vocal pour trouver des joueurs pour des Arams ou des normales.",
+        "lien_utile":"https://www.leagueoflegends.com/fr-fr/",
         "version": "",
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/lol.jpg"
@@ -56,8 +56,8 @@
     {
         "id":"6",
         "name":"Rust",
-        "description": "",
-        "lien_utile":"",
+        "description": "Venez rejoindre nos hommes et nos femmes à poil ! Pillez, raidez, et construisez le tout en se gèlent les pieds (et pas que).",
+        "lien_utile":"https://rust.facepunch.com/",
         "version": "",
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/rust.png"
@@ -65,10 +65,37 @@
     {
         "id":"7",
         "name":"Rainbow Six Siege",
-        "description": "",
-        "lien_utile":"",
+        "description":"Terroristes contre les forces spéciales ! Rejoignez notre équipe pour vaincre l’équipe adverse et désarmer la bombe. Nos joueurs jouent en classée et en normal avec des niveaux variés.",
+        "lien_utile":"https://www.ubisoft.com/fr-fr/game/rainbow-six/siege",
         "version": "",
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/rainbow_six_siege.jpg"
+    },
+    {
+        "id":"9",
+        "name":"PlaneteSide 2",
+        "description": "Le jeu de stratégie inter-galactique ! Rejoignez l’empire Vanu et menez l’outfit Gurd à la victoire. Tous ensemble pour des moments épiques en escouade !",
+        "lien_utile":"https://www.planetside2.com/home",
+        "version": "",
+        "serveur_proprietaire": "",
+        "image":"../../assets/images/games/planetside.jpg"
+    },
+    {
+        "id":"10",
+        "name":"Star Wars : Battlefront II",
+        "description": "Rejoignez la force ou le côté obscur à nos côtés ! “Pour garantir la sécurité et la stabilité dans la continuité, la République sera bientôt réorganisée et deviendra la première puissance galactique Impériale, pour une société fondée sur l'Ordre et la sécurité. “",
+        "lien_utile":"https://www.ea.com/fr-fr/games/starwars/battlefront/star-wars-battlefront-2",
+        "version": "",
+        "serveur_proprietaire": "",
+        "image":"../../assets/images/games/battlefront.jpg"
+    },
+    {
+        "id":"11",
+        "name":"Star Citizen",
+        "description": "Un jour peut-être…",
+        "lien_utile":"https://robertsspaceindustries.com/star-citizen",
+        "version": "",
+        "serveur_proprietaire": "",
+        "image":"../../assets/images/games/starcitizen.jpg"
     }
 ]

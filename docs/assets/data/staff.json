@@ -2,8 +2,8 @@
     {
         "id":"1",
         "pseudo":"Commander",
-        "image":"../../assets/images/staff/commander.PNG",
-        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "image":"../../assets/images/staff/commander.jpg",
+        "description":"“Fais pas chier !“",
         "role":"admin"
     },
     {
