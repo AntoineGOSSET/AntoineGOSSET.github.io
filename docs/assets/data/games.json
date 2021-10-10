@@ -5,8 +5,17 @@
         "description": "Minecraft plonge le joueur dans un monde créé de manière procédurale, composé de voxels (des cubes) représentant différents matériaux comme de la terre, du sable, de la pierre, de l'eau, de la lave ou des minerais formant diverses structures.",
         "lien_utile":"https://www.minecraft.net/fr-fr",
         "version": "1.16.5",
-        "serveur_proprietaire": "gurdilcraft.net",
+        "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/minecraft.jpg"
+    },
+    {
+        "id":"8",
+        "name":"Squad",
+        "description": "",
+        "lien_utile":"",
+        "version": "",
+        "serveur_proprietaire": "gurdilcraft.fr",
+        "image":"../../assets/images/games/squad.jpg"
     },
     {
         "id":"2",
@@ -14,7 +23,7 @@
         "description": "",
         "lien_utile":"",
         "version": "",
-        "serveur_proprietaire": "gurdilcraft.net",
+        "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/eco.jpg"
     },
     {
@@ -23,7 +32,7 @@
         "description": "",
         "lien_utile":"",
         "version": "",
-        "serveur_proprietaire": "gurdilcraft.net",
+        "serveur_proprietaire": "gurdilcraft.fr",
         "image":"../../assets/images/games/7days.jpg"
     },
     {
