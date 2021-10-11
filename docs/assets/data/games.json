@@ -73,7 +73,7 @@
     },
     {
         "id":"9",
-        "name":"Star Wars : Battlefront II",
+        "name":"Star Wars: Battlefront II",
         "description": "“Pour garantir la sécurité et la stabilité dans la continuité, la République sera bientôt réorganisée et deviendra la première puissance galactique Impériale, pour une société fondée sur l'Ordre et la sécurité.“",
         "lien_utile":"https://www.ea.com/fr-fr/games/starwars/battlefront/star-wars-battlefront-2",
         "version": "",
@@ -88,9 +88,18 @@
         "version": "",
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/ark.jpg"
-    },    
+    },
     {
         "id":"11",
+        "name":"Call of Duty: Warzone",
+        "description": "Essayons de survire ensemble, on est pas si mauvais que ça",
+        "lien_utile":"https://robertsspaceindustries.com/star-citizen",
+        "version": "",
+        "serveur_proprietaire": "",
+        "image":"../../assets/images/games/warzone.jpg"
+    },  
+    {
+        "id":"12",
         "name":"Star Citizen",
         "description": "Un jour peut-être…",
         "lien_utile":"https://robertsspaceindustries.com/star-citizen",
