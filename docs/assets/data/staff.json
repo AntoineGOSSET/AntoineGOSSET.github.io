@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "pseudo":"Commander",
+        "image":"../../assets/images/staff/commander.jpg",
+        "description":"“Fais pas chier !“",
+        "role":"admin"
+    },
+    {
+        "id":"2",
+        "pseudo":"Arwine",
+        "image":"../../assets/images/staff/arwine.PNG",
+        "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
+        "role":"admin"
+    },
+    {
+        "id":"3",
+        "pseudo":"Mouton",
+        "image":"../../assets/images/staff/mouton.PNG",
+        "description":"“BéééééEEEEEèèè...“",
+        "role":"technicien"
+    },
+    {
+        "id":"4",
+        "pseudo":"Buck",
+        "image":"../../assets/images/staff/buck.PNG",
+        "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
+        "role":"technicien"
+    }
+]
