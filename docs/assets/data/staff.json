@@ -1,5 +1,12 @@
 [
     {
+        "id":"5",
+        "pseudo":"BTGG",
+        "image":"../../assets/images/staff/btgg.png",
+        "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
+        "role":"admin"
+    },
+    {
         "id":"1",
         "pseudo":"Commander",
         "image":"../../assets/images/staff/commander.jpg",
@@ -27,4 +34,5 @@
         "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
         "role":"technicien"
     }
+
 ]
