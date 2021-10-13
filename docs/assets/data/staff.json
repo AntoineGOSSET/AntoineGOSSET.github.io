@@ -10,7 +10,7 @@
         "id":"2",
         "pseudo":"Arwine",
         "image":"../../assets/images/staff/arwine.PNG",
-        "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
+        "description":"“Je suis parti“ Tchatchachaaaaaa",
         "role":"admin"
     },
     {
@@ -24,7 +24,7 @@
         "id":"4",
         "pseudo":"Buck",
         "image":"../../assets/images/staff/buck.PNG",
-        "description":"“Lorem ipsum dolor sit amet, consectetur adipiscing elit.“",
+        "description":"“...“",
         "role":"technicien"
     }
 ]
