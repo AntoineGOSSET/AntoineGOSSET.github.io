@@ -82,6 +82,15 @@
     },
     {
         "id":"10",
+        "name":"Battlefield",
+        "description": "Rejoignez notre escouade pour venir à bout de nos ennemies. Nous jouons sur les différents jeux de la franchise.",
+        "lien_utile":"https://www.origin.com/fra/fr-fr/store/browse?fq=franchise:battlefield&sort=rank%20desc",
+        "version": "",
+        "serveur_proprietaire": "",
+        "image":"../../assets/images/games/battlefield.jpg"
+    },
+    {
+        "id":"11",
         "name":"Ark",
         "description": "Venez rejoindre notre serveur jurrassic ! “J’ai dépensé sans compter” (John Hammond). T-Rex like that !",
         "lien_utile":"https://www.epicgames.com/store/fr/p/ark",
@@ -89,15 +98,6 @@
         "serveur_proprietaire": "",
         "image":"../../assets/images/games/ark.jpg"
     },
-    {
-        "id":"11",
-        "name":"Call of Duty: Warzone",
-        "description": "Essayons de survire ensemble, on est pas si mauvais que ça",
-        "lien_utile":"https://robertsspaceindustries.com/star-citizen",
-        "version": "",
-        "serveur_proprietaire": "",
-        "image":"../../assets/images/games/warzone.jpg"
-    },  
     {
         "id":"12",
         "name":"Star Citizen",
