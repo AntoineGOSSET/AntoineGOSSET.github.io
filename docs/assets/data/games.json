@@ -6,7 +6,7 @@
         "lien_utile":"https://www.minecraft.net/fr-fr",
         "version": "1.16.5",
         "serveur_proprietaire": "gurdilcraft.fr",
-        "image":"../../assets/images/games/minecraft.jpg"
+        "image":"../../assets/images/games/minecraft.webp"
     },
     {
         "id":"2",
@@ -15,7 +15,7 @@
         "lien_utile":"https://joinsquad.com/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
-        "image":"../../assets/images/games/squad.jpg"
+        "image":"../../assets/images/games/squad.webp"
     },
     {
         "id":"3",
@@ -24,7 +24,7 @@
         "lien_utile":"https://play.eco/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
-        "image":"../../assets/images/games/eco.jpg"
+        "image":"../../assets/images/games/eco.webp"
     },
     {
         "id":"4",
@@ -33,7 +33,7 @@
         "lien_utile":"https://www.ubisoft.com/fr-fr/game/rainbow-six/siege",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/rainbow_six_siege.jpg"
+        "image":"../../assets/images/games/rainbow_six_siege.webp"
     },
     {
         "id":"5",
@@ -42,7 +42,7 @@
         "lien_utile":"https://www.leagueoflegends.com/fr-fr/",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/lol.jpg"
+        "image":"../../assets/images/games/lol.webp"
     },
     {
         "id":"6",
@@ -51,7 +51,7 @@
         "lien_utile":"https://www.planetside2.com/home",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/planetside.jpg"
+        "image":"../../assets/images/games/planetside.webp"
     },
     {
         "id":"7",
@@ -60,7 +60,7 @@
         "lien_utile":"https://rust.facepunch.com/",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/rust.jpg"
+        "image":"../../assets/images/games/rust.webp"
     },
     {
         "id":"8",
@@ -69,7 +69,7 @@
         "lien_utile":"https://store.steampowered.com/app/251570/7_Days_to_Die/",
         "version": "",
         "serveur_proprietaire": "gurdilcraft.fr",
-        "image":"../../assets/images/games/7days.jpg"
+        "image":"../../assets/images/games/7days.webp"
     },
     {
         "id":"9",
@@ -78,7 +78,7 @@
         "lien_utile":"https://www.ea.com/fr-fr/games/starwars/battlefront/star-wars-battlefront-2",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/battlefront.jpg"
+        "image":"../../assets/images/games/battlefront.webp"
     },
     {
         "id":"10",
@@ -87,7 +87,7 @@
         "lien_utile":"https://www.origin.com/fra/fr-fr/store/browse?fq=franchise:battlefield&sort=rank%20desc",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/battlefield.jpg"
+        "image":"../../assets/images/games/battlefield.webp"
     },
     {
         "id":"11",
@@ -96,7 +96,7 @@
         "lien_utile":"https://www.epicgames.com/store/fr/p/ark",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/ark.jpg"
+        "image":"../../assets/images/games/ark.webp"
     },
     {
         "id":"12",
@@ -105,6 +105,6 @@
         "lien_utile":"https://robertsspaceindustries.com/star-citizen",
         "version": "",
         "serveur_proprietaire": "",
-        "image":"../../assets/images/games/starcitizen.jpg"
+        "image":"../../assets/images/games/starcitizen.webp"
     }
 ]

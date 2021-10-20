@@ -2,21 +2,21 @@
     {
         "id":"1",
         "alternative_text":"Minecraft",
-        "path":"../../assets/images/carrousel/minecraft_2.png"
+        "path":"../../assets/images/carrousel/minecraft_2.webp"
     },
     {
         "id":"2",
         "alternative_text":"Rainbow Six Siege",
-        "path":"../../assets/images/carrousel/rainbow.png"
+        "path":"../../assets/images/carrousel/rainbow.webp"
     },
     {
         "id":"3",
         "alternative_text":"Eco",
-        "path":"../../assets/images/carrousel/eco.jpg"
+        "path":"../../assets/images/carrousel/eco.webp"
     },
     {
         "id":"4",
         "alternative_text":"Rust",
-        "path":"../../assets/images/carrousel/rust.png"
+        "path":"../../assets/images/carrousel/rust.webp"
     }
 ]
